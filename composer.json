@@ -1,5 +1,5 @@
 {
-    "name": "baldinof/roadrunner-bundle",
+    "name": "nyatmeat/roadrunner-bundle",
     "type": "symfony-bundle",
     "description": "A RoadRunner worker as a Symfony Bundle",
     "license": "MIT",
